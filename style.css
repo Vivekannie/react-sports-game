@@ -1,0 +1,33 @@
+* {
+  margin-top: 10px;
+  padding: 10px;
+  list-style: none;
+  text-decoration: rgb(235, 99, 9);
+  font-family: fantasy;
+
+}
+
+body {
+
+  background-image: url(https://cdn.britannica.com/63/211663-050-A674D74C/Jonny-Bairstow-batting-semifinal-match-England-Australia-2019.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.clear {
+  clear: both;
+}
+
+
+h1 {
+  text-align: center;
+}
